@@ -1,7 +1,3 @@
-[python] Sure! Here's a comprehensive document for the `tcpdump.py` utility.
-
----
-
 # Python TCPDump Utility
 
 ## Overview
